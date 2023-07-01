@@ -5,7 +5,7 @@
 - HAN consists of two levels of attention mechanisms: word-level attention and sentence-level attention.
 - In this repo, HAN is used for document classification of datasets **dbpedia** and **yahoo_answers**.
 - Link to datasets [dbpedia,yahoo_answers](https://drive.google.com/drive/folders/1P-aVltYqZ6jl6fkGenG-Lu6FKLRLtJ0e?usp=drive_link).
-
+- Link to pretrained models [model](https://drive.google.com/drive/folders/1-kGccYP6imTtKGl6_Jc7o1NKrX0ATeLx?usp=drive_link)
 ## HAN_model
 ![](HAN_model.png)
 
