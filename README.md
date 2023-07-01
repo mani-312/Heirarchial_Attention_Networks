@@ -7,7 +7,7 @@
 - Link to datasets [dbpedia,yahoo_answers](https://drive.google.com/drive/folders/1P-aVltYqZ6jl6fkGenG-Lu6FKLRLtJ0e?usp=drive_link).
 
 ## HAN_model
-![](src/HAN_model.png)
+![](HAN_model.png)
 
 ## Training 
 ### dbpedia
