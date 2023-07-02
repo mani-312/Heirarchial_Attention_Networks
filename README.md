@@ -6,6 +6,14 @@
 - In this repo, HAN is used for document classification of datasets **dbpedia** and **yahoo_answers**.
 - Link to datasets [dbpedia,yahoo_answers](https://drive.google.com/drive/folders/1P-aVltYqZ6jl6fkGenG-Lu6FKLRLtJ0e?usp=drive_link).
 - Link to pretrained models [model](https://drive.google.com/drive/folders/1-kGccYP6imTtKGl6_Jc7o1NKrX0ATeLx?usp=drive_link)
+
+## Datasets
+### Yahoo Answers
+- This is a topic classification task with 10 classes: Society & Culture, Science & Mathematics, Health, Education & Reference, Computers & Internet, Sports, Business & Finance, Entertainment & Music, Family & Relationships and Politics & Government. The document we use includes question titles, question contexts and best answers. There are 140,000 training samples and 5000 testing samples. The original data set does not provide validation samples. We randomly select 10% of the training samples as validation
+
+### DBpedia
+- The The dataset consists of text documents represented by their abstracts from various Wikipedia articles. 14 classes are Company, EducationalInstitution, Artist, Athlete, OfficeHolder, MeanOfTransportation, Building, NaturalPlace, Village, Animal, Plant, Album, Film, WrittenWork
+
 ## HAN_model
 ![](HAN_model.png)
 
